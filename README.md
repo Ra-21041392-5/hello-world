@@ -5,4 +5,4 @@ A Integração Contínua (IC) é um processo essencial no desenvolvimento ágil,
 
 ### About me
 
-My name is Ketlyn Gonçalves
+By Ketlyn Gonçalves
